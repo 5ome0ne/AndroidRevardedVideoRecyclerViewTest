@@ -1,4 +1,4 @@
-package com.example.app4pokerfavorit;
+package com.example.appRewardedVideoTest;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -9,9 +9,9 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.example.app4pokerfavorit.msgTypes.AdsMsgType;
-import com.example.app4pokerfavorit.msgTypes.HimMsgType;
-import com.example.app4pokerfavorit.msgTypes.MyMsgType;
+import com.example.appRewardedVideoTest.msgTypes.AdsMsgType;
+import com.example.appRewardedVideoTest.msgTypes.HimMsgType;
+import com.example.appRewardedVideoTest.msgTypes.MyMsgType;
 
 import java.text.SimpleDateFormat;
 import java.util.List;

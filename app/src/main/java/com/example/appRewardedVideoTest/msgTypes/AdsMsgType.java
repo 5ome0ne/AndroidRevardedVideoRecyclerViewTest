@@ -1,9 +1,9 @@
-package com.example.app4pokerfavorit.msgTypes;
+package com.example.appRewardedVideoTest.msgTypes;
 
 import android.content.Context;
 import android.view.View;
-import com.example.app4pokerfavorit.MainActivity;
-import com.example.app4pokerfavorit.MsgType;
+import com.example.appRewardedVideoTest.MainActivity;
+import com.example.appRewardedVideoTest.MsgType;
 
 public class AdsMsgType implements MsgType {
     private Context context;

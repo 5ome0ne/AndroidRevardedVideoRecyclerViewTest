@@ -1,9 +1,9 @@
-package com.example.app4pokerfavorit.msgTypes;
+package com.example.appRewardedVideoTest.msgTypes;
 
 import android.content.Context;
 import android.view.View;
 import android.widget.Toast;
-import com.example.app4pokerfavorit.MsgType;
+import com.example.appRewardedVideoTest.MsgType;
 import java.util.Date;
 
 public class MyMsgType implements MsgType {

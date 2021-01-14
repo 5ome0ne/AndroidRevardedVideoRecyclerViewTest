@@ -1,4 +1,4 @@
-package com.example.app4pokerfavorit;
+package com.example.appRewardedVideoTest;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.app4pokerfavorit", appContext.getPackageName());
+        assertEquals("com.example.appRewardedVideoTest", appContext.getPackageName());
     }
 }

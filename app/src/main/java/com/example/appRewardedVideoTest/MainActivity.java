@@ -1,13 +1,13 @@
-package com.example.app4pokerfavorit;
+package com.example.appRewardedVideoTest;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
-import com.example.app4pokerfavorit.msgTypes.AdsMsgType;
-import com.example.app4pokerfavorit.msgTypes.HimMsgType;
-import com.example.app4pokerfavorit.msgTypes.MyMsgType;
+import com.example.appRewardedVideoTest.msgTypes.AdsMsgType;
+import com.example.appRewardedVideoTest.msgTypes.HimMsgType;
+import com.example.appRewardedVideoTest.msgTypes.MyMsgType;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.reward.RewardItem;

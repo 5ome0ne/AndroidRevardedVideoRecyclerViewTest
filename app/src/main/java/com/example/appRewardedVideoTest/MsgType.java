@@ -1,4 +1,4 @@
-package com.example.app4pokerfavorit;
+package com.example.appRewardedVideoTest;
 
 public interface MsgType {
     int MY_MSG_TYPE  = 0;

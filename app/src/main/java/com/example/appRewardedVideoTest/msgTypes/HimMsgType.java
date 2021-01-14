@@ -1,6 +1,6 @@
-package com.example.app4pokerfavorit.msgTypes;
+package com.example.appRewardedVideoTest.msgTypes;
 
-import com.example.app4pokerfavorit.MsgType;
+import com.example.appRewardedVideoTest.MsgType;
 import java.util.Date;
 
 public class HimMsgType implements MsgType {

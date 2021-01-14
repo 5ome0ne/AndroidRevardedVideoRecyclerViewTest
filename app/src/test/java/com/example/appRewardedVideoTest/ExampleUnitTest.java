@@ -1,4 +1,4 @@
-package com.example.app4pokerfavorit;
+package com.example.appRewardedVideoTest;
 
 import org.junit.Test;
 
