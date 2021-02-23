@@ -3,18 +3,14 @@ package com.example.appRewardedVideoTest.msgTypes;
 import android.content.Context;
 import android.view.View;
 import android.widget.Toast;
-import com.example.appRewardedVideoTest.MsgType;
 import java.util.Date;
 
-public class MyMsgType implements MsgType {
+public class MyMsgType extends HimMsgType {
     private Context context;
-    private String message;
-    private Date date;
 
     public MyMsgType(Context context, String message, Date date) {
+        super(message, date);
         this.context = context;
-        this.message = message;
-        this.date = date;
     }
 
     public View.OnClickListener getOnClickListener() {
@@ -24,13 +20,5 @@ public class MyMsgType implements MsgType {
                 Toast.makeText(context, "CALLBACK TO Activity!", Toast.LENGTH_SHORT).show();
             }
         };
-    }
-
-    public String getMessage() {
-        return message;
-    }
-
-    public Date getDate() {
-        return date;
     }
 }

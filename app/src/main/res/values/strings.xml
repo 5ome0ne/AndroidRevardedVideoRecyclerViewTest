@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">AppRewardedVideoTest</string>
     <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
-    <string name="name">Oliinyk Volodymyr</string>
-    <!--<string name="ad_unit_id">ca-app-pub-3940256099942544/5224354917</string>-->
+    <string name="sponsored">Sponsored</string>
+    <string name="watch_this_cool_gms_ad">Watch this cool gms ad!</string>
+    <string name="show_reward">Show Reward!</string>
 </resources>
